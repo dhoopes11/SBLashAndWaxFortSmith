@@ -1,2 +1,0 @@
-# SBSkinAndLashFortSmith
-Sarah Bennet Lash
