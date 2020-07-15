@@ -22,7 +22,7 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  font-family: "Display Playfair"; }
+  font-family: 'Satisfy', cursive; }
 
 .text-black {
   color: #000 !important; }
