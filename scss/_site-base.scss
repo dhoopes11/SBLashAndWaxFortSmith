@@ -1,4 +1,4 @@
-$font-family-serif: 'Display Playfair';
+$font-family-serif:'Satisfy', cursive;;
 
 body {
 	line-height: 1.7;
@@ -23,7 +23,7 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-	font-family: $font-family-serif;
+	font-family: 'Satisfy', cursive;
 }
 
 .text-black {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5,
 	height: 43px;
 	border-radius: 0;
 	&:active, &:focus {
-		border-color: $primary;
+		border-color: $teal;
 	}
 	&:hover, &:active, &:focus {
 		box-shadow: none!important;
